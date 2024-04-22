@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+tensorflow # для TensorFlow
+torch # для PyTorch
+keras # для Keras
